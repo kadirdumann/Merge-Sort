@@ -14,4 +14,4 @@ Kodluyoruz Eğitimi kapsamında merge sort porjesi
  
 * Big-O gösterimini yazınız.
 
-  O(nlogn)
+    O(nlogn)
